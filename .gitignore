@@ -1,0 +1,17 @@
+# Archivos y directorios generados por PyCharm
+.idea/
+*.iml
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Directorio de entorno virtual (si usas virtualenv o similar)
+venv/
+
+# Archivo de registro de dependencias (si usas pipenv)
+Pipfile.lock
+
+# Archivos de registro y caché generados por el script
+/logs/
+/cache/
